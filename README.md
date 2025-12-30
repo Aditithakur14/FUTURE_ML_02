@@ -12,3 +12,13 @@ Customer Churn Prediction system using Machine Learning and AI, built as part of
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## Screenshots
+
+### Data Analysis
+![Analyzing](screenshots/Analyzing.png)
+
+### Churn Dashboard
+![Dashboard](screenshots/Churndashboard.png)
+
+### Churn Prediction Output
+![Prediction](screenshots/Prediction.png)
