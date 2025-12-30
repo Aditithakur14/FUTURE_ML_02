@@ -15,10 +15,10 @@ Customer Churn Prediction system using Machine Learning and AI, built as part of
 ## Screenshots
 
 ### Data Analysis
-![Analyzing](screenshots/Analyzing_data.png)
+![Analyzing](screenshots/Analyzing_data)
 
 ### Churn Dashboard
-![Dashboard](screenshots/Churn_dashboard.png)
+![Dashboard](screenshots/Churn_dashboard)
 
 ### Churn Prediction Output
-![Prediction](screenshots/Prediction.png)
+![Prediction](screenshots/Prediction)
